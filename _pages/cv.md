@@ -11,35 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, The Hong Kong University of Science and Technology (HKUST), 2024 (expected)
+* B.S. in Computer Science, Beijing Jiaotong University (BJTU), 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2018: Security Researcher Intern
+  * GXuanwu Lab, Tencent
+  * Duties included: Broswer Security
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Skills: Python, C/C++, Assembly, PHP, HTML, JavaScript, Go.
+* Language Skills: Chinese (Native), English (CET-6: 600, IELTS: 7.5).
 
 Publications
 ======
@@ -61,4 +45,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* External Reviewer:
+  * ASE'2022, ISSTA'2023, CCS'2024, ICSE'2024, ISSTA'2024
