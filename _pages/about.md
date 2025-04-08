@@ -16,8 +16,8 @@ This is Anshunkang Zhou's homepage! I am a Ph.D student at the Hong Kong Univers
 (* corresponding author)
 
 ### ISSTA'25
-[**KRAKEN: Program-Adaptive Parallel Fuzzing**]  
-**Anshunkang Zhou**, Heqing Huang, Charles Zhang 
+**KRAKEN: Program-Adaptive Parallel Fuzzing**
+**Anshunkang Zhou**, Heqing Huang<sup>\*</sup>, Charles Zhang 
 *The 34th ACM SIGSOFT International Symposium on Software Testing and Analysis.*   
 
 ### ASPLOS'25
