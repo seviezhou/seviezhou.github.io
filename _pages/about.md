@@ -16,9 +16,9 @@ This is Anshunkang Zhou's homepage! I am a Ph.D student at the Hong Kong Univers
 (* corresponding author)
 
 ### ISSTA'25
-**KRAKEN: Program-Adaptive Parallel Fuzzing**
+[**KRAKEN: Program-Adaptive Parallel Fuzzing**](https://seviezhou.github.io/files/kraken.pdf)
 **Anshunkang Zhou**, Heqing Huang<sup>\*</sup>, Charles Zhang 
-*The 34th ACM SIGSOFT International Symposium on Software Testing and Analysis.*   
+*The 34th ACM SIGSOFT International Symposium on Software Testing and Analysis.*
 
 ### ASPLOS'25
 [**Manta: Hybrid-Sensitive Type Inference Toward Type-Assisted Bug  Detection for Stripped Binaries**](https://seviezhou.github.io/files/asplos24fall-final196.pdf)   
