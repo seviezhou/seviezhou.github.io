@@ -18,7 +18,7 @@ This is Anshunkang Zhou's homepage! I am a Ph.D student at the Hong Kong Univers
 ### ISSTA'25
 [**KRAKEN: Program-Adaptive Parallel Fuzzing**](https://seviezhou.github.io/files/kraken.pdf)
 **Anshunkang Zhou**, Heqing Huang<sup>\*</sup>, Charles Zhang 
-*The 34th ACM SIGSOFT International Symposium on Software Testing and Analysis.*
+*The 34th ACM SIGSOFT International Symposium on Software Testing and Analysis*
 
 ### ASPLOS'25
 [**Manta: Hybrid-Sensitive Type Inference Toward Type-Assisted Bug  Detection for Stripped Binaries**](https://seviezhou.github.io/files/asplos24fall-final196.pdf)   
@@ -33,12 +33,12 @@ Chengfeng Ye, Yuandao Cai<sup>\*</sup>, **Anshunkang Zhou**, Heqing Huang, Hao L
 ### S&P'24
 [**Everything is Good for Something: Counterexample-Guided Directed Fuzzing via Likely Invariant Inference**](https://seviezhou.github.io/files/halo.pdf)    
 Heqing Huang, **Anshunkang Zhou**, Mathias Payer, Charles Zhang.    
-*The 45th IEEE Symposium on Security and Privacy*.
+*The 45th IEEE Symposium on Security and Privacy*
 
 ### TOSEM'24
 [**ARCTURUS: Full Coverage Binary Similarity Analysis with Reachability-guided Emulation**](https://seviezhou.github.io/files/arcturus.pdf)    
 **Anshunkang Zhou**, Yikun Hu<sup>\*</sup>, Xiangzhe Xu, Charles Zhang.    
-*ACM Transactions on Software Engineering and Methodology*.
+*ACM Transactions on Software Engineering and Methodology*
 
 
 
