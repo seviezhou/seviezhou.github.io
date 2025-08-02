@@ -38,7 +38,7 @@ Heqing Huang, **Anshunkang Zhou**, Mathias Payer, Charles Zhang.
 ### TOSEM'24
 [**ARCTURUS: Full Coverage Binary Similarity Analysis with Reachability-guided Emulation**](https://seviezhou.github.io/files/arcturus.pdf)    
 **Anshunkang Zhou**, Yikun Hu<sup>\*</sup>, Xiangzhe Xu, Charles Zhang.    
-*The 45th IEEE Symposium on Security and Privacy*.
+*ACM Transactions on Software Engineering and Methodology*.
 
 
 
