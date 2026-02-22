@@ -16,23 +16,23 @@ This is Anshunkang Zhou's homepage! I am a Ph.D student at the Hong Kong Univers
 (* corresponding author)
 
 ### OOPSLA'26
-[**Diatom: Polylithic Binary Lifting with Data-flow Summaries and Type-aware IR Linking**](https://seviezhou.github.io/files/oopsla26-paper41.pdf)
-**Anshunkang Zhou**, Charles Zhang 
+[**Diatom: Polylithic Binary Lifting with Data-flow Summaries and Type-aware IR Linking**](https://seviezhou.github.io/files/oopsla26-paper41.pdf)  
+**Anshunkang Zhou**, Charles Zhang   
 *Proceedings of the ACM on Programming Languages 10.OOPSLA1 (2026)*
 
 ### NDSS'26
-[**Enhancing Semantic-Aware Binary Diffing with High-Confidence Dynamic Instruction Alignment**](https://seviezhou.github.io/files/ndss26-fall-final663.pdf)
-Chengfeng Ye, **Anshunkang Zhou<sup>\*</sup>**, Charles Zhang 
+[**Enhancing Semantic-Aware Binary Diffing with High-Confidence Dynamic Instruction Alignment**](https://seviezhou.github.io/files/ndss26-fall-final663.pdf)  
+Chengfeng Ye, **Anshunkang Zhou<sup>\*</sup>**, Charles Zhang   
 *The Network and Distributed System Security (NDSS) Symposium 2026*
 
 ### ISSTA'25
-[**KRAKEN: Program-Adaptive Parallel Fuzzing**](https://seviezhou.github.io/files/kraken.pdf)
-**Anshunkang Zhou**, Heqing Huang<sup>\*</sup>, Charles Zhang 
+[**KRAKEN: Program-Adaptive Parallel Fuzzing**](https://seviezhou.github.io/files/kraken.pdf)  
+**Anshunkang Zhou**, Heqing Huang<sup>\*</sup>, Charles Zhang   
 *The 34th ACM SIGSOFT International Symposium on Software Testing and Analysis*
 
 ### ASPLOS'25
 [**Manta: Hybrid-Sensitive Type Inference Toward Type-Assisted Bug  Detection for Stripped Binaries**](https://seviezhou.github.io/files/asplos24fall-final196.pdf)   
-Chengfeng Ye, Yuandao Cai<sup>\*</sup>, **Anshunkang Zhou**, Heqing Huang, Hao Ling, Charles Zhang 
+Chengfeng Ye, Yuandao Cai<sup>\*</sup>, **Anshunkang Zhou**, Heqing Huang, Hao Ling, Charles Zhang  
 *ACM Conference on Architectural Support for Programming Languages and Operating Systems*   
 
 ### ASPLOS'24
