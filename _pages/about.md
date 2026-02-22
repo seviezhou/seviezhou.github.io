@@ -15,6 +15,16 @@ This is Anshunkang Zhou's homepage! I am a Ph.D student at the Hong Kong Univers
 ## Publication
 (* corresponding author)
 
+### OOPSLA'26
+[**Diatom: Polylithic Binary Lifting with Data-flow Summaries and Type-aware IR Linking**](https://seviezhou.github.io/files/oopsla26-paper41.pdf)
+**Anshunkang Zhou**, Charles Zhang 
+*Proceedings of the ACM on Programming Languages 10.OOPSLA1 (2026)*
+
+### NDSS'26
+[**Enhancing Semantic-Aware Binary Diffing with High-Confidence Dynamic Instruction Alignment**](https://seviezhou.github.io/files/ndss26-fall-final663.pdf)
+Chengfeng Ye, **Anshunkang Zhou<sup>\*</sup>**, Charles Zhang 
+*The Network and Distributed System Security (NDSS) Symposium 2026*
+
 ### ISSTA'25
 [**KRAKEN: Program-Adaptive Parallel Fuzzing**](https://seviezhou.github.io/files/kraken.pdf)
 **Anshunkang Zhou**, Heqing Huang<sup>\*</sup>, Charles Zhang 
